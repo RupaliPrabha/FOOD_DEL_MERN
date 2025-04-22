@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import "./LoginPopUp.css";
 import { assets } from "../../assets/assets";
-import { StoreContext } from "../../Context/storeContext";
+import { StoreContext } from "../../Context/StoreContext";
 import axios from 'axios'
 
 
